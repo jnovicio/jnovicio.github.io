@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    width:100%;
+    height:auto;
+    
+}
+
+
+.navbar {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gloria Hallelujah', cursive;
+    background-color:#85e1f1
+    
+}
+
+.nav li {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+#mySkills {
+    text-align: left;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: gray;
+}
+
+
+h4 {
+    text-align: center;
+    
+    
+}
+
+h4 a {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: white;
+}
+
+.iconLbl {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+main {
+    background-color: #85e1f1;
+}
+
+.mainImg {
+    width: 100%;
+    border-radius: 5px;
+}
+
+#content {
+    background-color: white;
+    padding-top: 30px;
+    color: gray;
+    padding-bottom: 30px;
+}
+
+.r2 {
+    padding-top: 55px;
+    background-color: #85e1f1;
+}
+
+#helloPara {
+    width: 60%;
+    margin:auto;
+    text-align: center;
+    padding: 30px;
+}
+#helloPara p {
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    line-height: 30px;
+}
+
+#intro {
+    background-color: white;
+}
+
+#hello {
+    color: red;
+    font-size: 30px;
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: left;
+}
+
+#responsive {
+    width: 80%;
+    
+}
+
+.pics {
+    text-align: center;
+}
+
+.r3 {
+    background-color: #85e1f1;
+    padding-bottom: 30px;
+}
+
+footer {
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+footer p {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.myForm {
+    text-align: center;
+    
+}
+
+.form-group label {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+#button {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-weight: bold;
+}
+
+
+/* page 2 */
+
+#content2 {
+    padding-top: 50px;
+}
+
+#main2 {
+    background-color: white;
+}
+
+.i2 {
+    width: 100%;
+}
+
+
+@media screen and (max-width: 800px) {
+    #responsive {
+        width: 50%;
+    }
+    
+    .iconLbl {
+        font-size:20px;
+    }
+    
+    .i2 {
+        width: 100%
+    }
+}
