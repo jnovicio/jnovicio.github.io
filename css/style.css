@@ -157,4 +157,9 @@ footer p {
     .i2 {
         width: 100%
     }
+    
+    #helloPara {
+    width: 100%;
+    padding: 30px;
+}
 }
